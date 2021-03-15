@@ -1,0 +1,4 @@
+use Mix.Config
+
+# very scary secrets WOULD be here.
+# the actual file is named "releases.exs"
