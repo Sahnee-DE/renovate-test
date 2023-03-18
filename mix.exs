@@ -36,7 +36,7 @@ defmodule RenovateTest.MixProject do
       {:phoenix, "~> 1.5.7"},
       {:telemetry_metrics, "~> 0.4"},
       {:telemetry_poller, "~> 0.4"},
-      {:gettext, "~> 0.11"},
+      {:gettext, "~> 0.22"},
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"}
     ]
